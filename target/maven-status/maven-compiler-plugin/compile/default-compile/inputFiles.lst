@@ -1,0 +1,12 @@
+/home/mpcs/workspace/faceSpace/target/generated-sources/thrift/edu/uchicago/mpcs53013/faceSpace/Pedigree.java
+/home/mpcs/workspace/faceSpace/target/generated-sources/thrift/edu/uchicago/mpcs53013/faceSpace/PersonID.java
+/home/mpcs/workspace/faceSpace/target/generated-sources/thrift/edu/uchicago/mpcs53013/faceSpace/BirthDate.java
+/home/mpcs/workspace/faceSpace/target/generated-sources/thrift/edu/uchicago/mpcs53013/faceSpace/DataUnit.java
+/home/mpcs/workspace/faceSpace/target/generated-sources/thrift/edu/uchicago/mpcs53013/faceSpace/Location.java
+/home/mpcs/workspace/faceSpace/target/generated-sources/thrift/edu/uchicago/mpcs53013/faceSpace/GenderType.java
+/home/mpcs/workspace/faceSpace/src/main/java/edu/uchicago/mpcs53013/faceSpace/FaceSpaceSerialization.java
+/home/mpcs/workspace/faceSpace/target/generated-sources/thrift/edu/uchicago/mpcs53013/faceSpace/Data.java
+/home/mpcs/workspace/faceSpace/target/generated-sources/thrift/edu/uchicago/mpcs53013/faceSpace/PersonPropertyValue.java
+/home/mpcs/workspace/faceSpace/target/generated-sources/thrift/edu/uchicago/mpcs53013/faceSpace/PersonProperty.java
+/home/mpcs/workspace/faceSpace/target/generated-sources/thrift/edu/uchicago/mpcs53013/faceSpace/RelationshipEdge.java
+/home/mpcs/workspace/faceSpace/src/main/java/edu/uchicago/mpcs53013/faceSpace/ThriftWriter.java
